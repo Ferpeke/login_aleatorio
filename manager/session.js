@@ -11,6 +11,6 @@ $(document).ready(() => {
     });
 
     $('#btn_close').click(()=>{
-        swal(':(','Ha cerrado sesión','info')
+        swal(':(','Se ha cerrado sesion','info')
     });
 });
