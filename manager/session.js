@@ -12,5 +12,6 @@ $(document).ready(() => {
 
     $('#btn_close').click(()=>{
         swal(':(','Se ha cerrado sesion','info')
+        alert('Fer esto es un ejemplo borralo')
     });
 });
